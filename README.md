@@ -1,6 +1,6 @@
 # BookMyShow Backend
 
-A scalable and production-ready **movie ticket booking backend** built with **Spring Boot**, following RESTful API principles and layered architecture. The application provides a complete backend solution for managing users, movies, theatres, shows, seat reservations, and ticket bookings while demonstrating enterprise Java development practice.
+A scalable and production-ready **movie ticket booking backend** built with **Spring Boot**, following RESTful API principles and layered architecture. The application provides a complete backend solution for managing users, movies, theatres, shows, seat reservations, and ticket bookings while demonstrating enterprise Java development practices.
 
 ---
 
